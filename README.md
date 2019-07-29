@@ -1,2 +1,2 @@
 # PracticeRxJava
-##Examples for Rx java
+RX JAVA samples in kotlin
